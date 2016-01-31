@@ -1,4 +1,4 @@
-organization := "pl.gigiel.simple.sbt"
+organization := "pl.gigiel"
 name := "simple-sbt"
 version := "0.0.0.1-SNAPSHOT"
 scalaVersion := "2.11.7"
